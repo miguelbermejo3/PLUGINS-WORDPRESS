@@ -4,7 +4,7 @@ Plugin Name: Mi Plugin Captcha sobre un captcha
 Plugin URI:  
 Description: Un plugin para mostrar un captcha personalizado.
 Version:     1.0
-Author:      Tu Nombre
+Author:      Miguel Bermejo Fierro
 Author URI:  https://bermejomiguel.com
 */
 
