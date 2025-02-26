@@ -12,3 +12,4 @@ Este plugin utiliza un shortcode para activar el captcha en el lugar que desees 
 
 Personalización:
 Para usar este plugin en tu propio sitio, es necesario que actualices las URLs de las imágenes dentro del código a las rutas de tu servidor o plataforma. Esto es fundamental para garantizar que el captcha funcione correctamente en tu entorno.
+También puedes añadirle temas propios con imagenes relacionadas a su gusto.
