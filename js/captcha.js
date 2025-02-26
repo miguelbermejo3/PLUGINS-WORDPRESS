@@ -58,7 +58,7 @@ function checkImage(img, captchaDiv) {
             const verifyButton = document.getElementById('btnVerificar');
             
             const successImg = document.createElement('img');
-            successImg.src = '/sellos/wp-content/themes/DIVI/images/verde.png';
+            successImg.src = '/images/verde.png';
             successImg.alt = 'acierto';
             
             captchaDiv.appendChild(successImg);
@@ -74,7 +74,7 @@ function checkImage(img, captchaDiv) {
             const captchaDiv = document.getElementById('captcha');
             captchaDiv.innerHTML = '';
             const failedImg = document.createElement('img');
-            failedImg.src = '/sellos/wp-content/themes/DIVI/images/eliminar.png';
+            failedImg.src = '/images/eliminar.png';
             failedImg.alt = 'fallo';
             failedImg.id='btnFallo';
             captchaDiv.appendChild(failedImg);
